@@ -1,0 +1,236 @@
+body{
+ margin:auto;
+ padding: 0;
+ font-family: 'Poppins', sans-serif;
+}
+section{
+    width: 1440px;
+    height: 3306px;
+}
+header{
+    margin-left: 200px;
+    width:1200px;
+    height:750px;
+    
+    margin-top: 20px;
+    
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    height:100px;
+    
+}
+.nav h1{
+    font-weight: 700;
+    font-size: 24px;
+    margin-left:60px;
+}
+.nav ul li{
+    list-style: none;
+    float: left;
+    margin:10px;
+
+}
+.parent{
+    width: 1200px;
+    height: 500px;
+   display:flex;
+}
+.left{
+    width: 582px;
+    height: 300px;
+    margin-top: 100px;
+    margin-left: 60px;
+    margin-right: 50px;
+    
+
+}
+.left h1{
+    font-size: 52px;
+    font-weight: 700;
+    margin:0px;
+}
+.left p{
+    font-size: 16px;
+    font-weight: 600;
+
+}
+.btn-1{
+    border-radius: 30px;
+    background-color: #E02C6D;
+    width: 196px;
+    height: 44px;
+    border: 0px;
+    font-size: 16px;
+    font-weight: 700;
+
+}
+.right{
+    background-image: url("images/Circle\ design.svg");
+    background-repeat: no-repeat;
+   width: 500px;
+   height: 500px;
+    float:right;
+    margin-left: 66px;
+
+}
+#pic{
+    width: 100%;
+    height: 100%;
+}
+.logos{
+width:900px;
+height:60px;
+display: flex;
+justify-content: space-between;
+margin-top: 70px;
+margin-left: 140px;
+margin-right: 20px;
+border:1px solid rgb(119, 118, 118);
+padding: 0px;
+}
+.logo1{
+  width: 55.05px; 
+  height: 31.06px; 
+}
+.logo2{
+    width: 84px;
+    height: 25.28px;
+}
+.logo3{
+    width: 84px;
+    height: 26px;
+}
+.logo4{
+    width: 99.12px;
+    height: 39.61px;
+}
+.logo5{
+    width:97.06px;
+    height: 28px;
+}
+.logo6{
+    width:111px;
+    height: 26px;
+}
+.logo7{
+    width: 91px;
+    height: 26px;
+}
+.full-card{
+    width: 830px;
+    height: auto;
+    margin-left: 100px;
+    text-align: center;
+    margin-left: 400px;
+    box-shadow: 20px 20px 30px 5px rgb(225, 223, 223);
+
+}
+
+.card{
+    height: 400px;
+    width: 250px;
+    text-align: left;
+    padding:10px;
+    border:0px;
+    
+    box-shadow: 0px 0px 10px 0px rgb(225, 223, 223);
+
+}
+#card-pic{
+    width:250px;
+    height: 220px;
+}
+
+#card{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 10px;
+    margin:auto;
+    width: 730px;
+    margin-left: 5px;
+    margin-right: 5px;
+
+}
+.card p{
+    margin:0px;
+    padding: 0px;
+    color:rgb(173, 171, 171);
+}
+.card h1{
+    margin: 0px;
+}
+.fa-star-half-full{
+    color:gold;
+}
+.checked{
+ color:gold;
+}
+div{
+    margin:0px;
+
+}
+.btn-2{
+color: #E02C6D;
+border: 0px;
+font-size: 16px;
+font-weight: 600;
+margin-left: 725px;
+}
+.btn-3{
+background-color: #E02C6D;
+width: 150px;
+height: 44px;
+border: 0px;
+font-size: 16px;
+font-weight: 700;
+}
+.ma{
+    display:flex;
+    margin-left: 300px;
+    margin-top: 30px;
+
+    width:1000px;
+}
+.baby1{
+
+    margin-left: 90px;
+}
+.baby2{
+    
+    width:500px;
+    margin-left:100px;
+}
+
+footer{
+    width:1550px;
+    height: 500px;
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    justify-content: center; 
+    align-items: center;
+
+}
+.ft{
+    margin:0px;
+
+}
+.ft2{
+    margin:0px;
+}
+ #end{
+    width:400px;
+    height: 200px;
+    background-color: oldlace;
+    margin-left: 600px;
+    margin-top: 500px;
+}
+
+
+
+
+
+
+
